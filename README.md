@@ -153,10 +153,9 @@ articles/*.pdf
 
 ---
 
-## 🔒 Disclaimer
-
 This version of ResearchMate provides backend agent functionality only.
 The optional Streamlit web interface is not included in this repository version.
+IT will be published in the next version that will include crewAI.
 
 ---
 
