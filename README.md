@@ -1,6 +1,6 @@
 # **ResearchMate - Autonomous Research Assistant**
 
-```markdown
+
 # ResearchMate 🧠📄
 
 ResearchMate is an advanced autonomous multi-agent research assistant powered by LLMs and CrewAI framework.  
@@ -20,7 +20,7 @@ This version provides the full backend research pipeline without any graphical u
 - Uses Gemini API for summarisation and editing
 - Highly modular design for easy extension and production use
 
----
+
 
 ## ResearchMate Pipeline Overview
 
