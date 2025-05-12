@@ -1,0 +1,8 @@
+arxiv
+google-generativeai
+python-dotenv
+PyYAML
+requests
+aiohttp
+aiofiles
+reportlab

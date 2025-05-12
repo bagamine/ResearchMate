@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+*.env
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CrewAI uv cache (if you ever run crewai install)
+.uv/
+
+# Streamlit state
+.streamlit/
+
+# Mac / Linux swap files
+*.swp

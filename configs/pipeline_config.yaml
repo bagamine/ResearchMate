@@ -1,0 +1,15 @@
+pipeline:
+  agents:
+    research: true
+    summariser: true
+    editor: true
+
+  tools:
+    document_search: true
+    pubmed: true
+    arxiv: true
+    text_to_pdf: true
+
+settings:
+  articles_output_folder: outputs/articles/
+  final_report_pdf: outputs/final_report.pdf
