@@ -3,7 +3,7 @@
 
 # ResearchMate 🧠📄
 
-ResearchMate is an advanced autonomous multi-agent research assistant powered by LLMs and CrewAI framework.  
+ResearchMate is an advanced autonomous multi-agent research assistant powered by LLMs.  
 It automates the full process of researching, synthesizing, and generating academic reports on any topic.
 
 This version provides the full backend research pipeline without any graphical user interface.
@@ -57,23 +57,23 @@ This version provides the full backend research pipeline without any graphical u
 +--------------------+
 \|    User Input      |
 +--------------------+
-|
-v
+        |
+        v
 +--------------------+
 \|   Research Agent   |
 +--------------------+
-|
-v
+        |
+        v
 +--------------------+
 \|  Summariser Agent  |
 +--------------------+
-|
-v
+        |
+        v
 +--------------------+
 \|    Editor Agent    |
 +--------------------+
-|
-v
+        |
+        v
 +--------------------+
 \|  PDF Report Output |
 +--------------------+
@@ -162,6 +162,6 @@ The optional Streamlit web interface is not included in this repository version.
 
 ## 💡 Authors
 
-* Project lead: \[Your Name / Team Name]
-* Based on OpenAI + CrewAI agent best practices
-* Inspired by real-world internal research assistants at OpenAI, DeepMind, Anthropic
+* Project lead: \[BAGUENNA Mohammed-Amine,[LinkedIn](https://www.linkedin.com/in/baguenna-mohammed-amine/)]
+* Based on Gemini
+
