@@ -1,7 +1,7 @@
 # Virtual environments
 .venv/
 env/
-ENV/
+venv/
 
 # Python cache & bytecode
 __pycache__/
@@ -9,7 +9,7 @@ __pycache__/
 *$py.class
 
 # Environment files
-*.env
+.env
 
 # Jupyter notebooks
 .ipynb_checkpoints/
@@ -26,11 +26,18 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# CrewAI uv cache (if you ever run crewai install)
+# CrewAI uv cache
 .uv/
 
 # Streamlit state
 .streamlit/
 
-# Mac / Linux swap files
+# Swap / temp files
 *.swp
+
+# Generated outputs (PDFs, logs)
+outputs/
+*.pdf
+
+# Local config / secrets (if you have any)
+src/researchmate/config/*.yaml
