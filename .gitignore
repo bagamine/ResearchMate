@@ -1,7 +1,0 @@
-# Python cache & bytecode
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Environment files
-.env
